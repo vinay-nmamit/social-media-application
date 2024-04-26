@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div className="grow">
         <PostFormCard/>
-        <Card>first vinay post test</Card>
+        <Card>second vinay post test</Card>
       </div>
     </div>
   );
